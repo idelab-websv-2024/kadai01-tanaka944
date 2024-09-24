@@ -45,3 +45,7 @@ div h1{
 .name {
   text-align: center;
 }
+
+#members {
+  border: 2px solid #000000;
+}
