@@ -26,10 +26,22 @@ div h1{
   color: #00f;
 }
 
+.header {
+  background-color: yellow;
+}
+
 .ol {
   background-color: #fbb4cf;
 }
 
 .el {
   background-color: #8fd3f1;
+}
+
+.last3 {
+  font-weight: bold;
+}
+
+.name {
+  text-align: center;
 }
