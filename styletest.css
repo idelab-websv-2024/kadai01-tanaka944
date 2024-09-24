@@ -2,14 +2,34 @@ body {
   background-color: #FFF;
 }
 
-h1  {
-  color: #000;
+h1,h2  {
+  color: #F00;
 }
 
-div#test01 {
+#test01 {
   color: #00a;
+}
+
+#test02 {
+  color: #882;
 }
 
 .important {
   color: #a00;
+}
+
+td,th {
+  border: solid thin;
+}
+
+div h1{
+  color: #00f;
+}
+
+.ol {
+  background-color: #fbb4cf;
+}
+
+.el {
+  background-color: #8fd3f1;
 }
